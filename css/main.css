@@ -1,6 +1,9 @@
 
 
-/*Bootstrap overrides*/
-.active{
-    background: darkred;
+.book_cover{
+    width: 95%; 
+    max-width: 359px;
+    padding: 20px;
+    margin: 0 auto;
+    display: table;
 }

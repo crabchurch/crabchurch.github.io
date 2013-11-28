@@ -7,9 +7,9 @@
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="The Crabchurch Conspiracy official website">
 
+    <link href='http://fonts.googleapis.com/css?family=IM+Fell+Great+Primer+SC' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="/css/bootstrap.css">
-
-    <!--<link rel="stylesheet" href="/css/main.css">-->
+    <link rel="stylesheet" href="/css/main.css">
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -22,8 +22,20 @@
 <div class="container">
     <div class="header">
         <ul class="nav nav-pills pull-right">
-            <li class="active"><a href="#">Home</a></li>
+            <li><a href="/">Home</a></li>
             <li><a href="#">About</a></li>
+            <li class="dropdown">
+                <a href="book.html" class="dropdown-toggle" data-toggle="dropdown">The Book <b class="caret"></b></a>
+                <ul class="dropdown-menu">
+                    <li><a href="#">Action</a></li>
+                    <li><a href="#">Another action</a></li>
+                    <li><a href="#">Something else here</a></li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header">Nav header</li>
+                    <li><a href="#">Separated link</a></li>
+                    <li><a href="#">One more separated link</a></li>
+                </ul>
+            </li>
             <li><a href="#">Contact</a></li>
         </ul>
         <h3 class="text-muted">{{site.name}}</h3>
@@ -32,8 +44,9 @@
     <div class="row">
 
         <div class="col-md-4">
-            <img src="/images/crabchurch_cover.jpg" >
+            <img src="/images/crabchurch_cover.jpg" class="img-responsive" style="margin: 0 auto">
         </div>
+
         <div class="col-md-8">
             {{content}}
         </div>

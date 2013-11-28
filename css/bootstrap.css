@@ -328,7 +328,7 @@ body {
     font-size: 14px;
     line-height: 1.428571429;
     color: #333333;
-    background-color: #ffffcc;
+    background-color: #fcf9d0;
 }
 
 input,
@@ -500,7 +500,8 @@ h6,
 .h4,
 .h5,
 .h6 {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'IM Fell Great Primer SC', serif;
+    /*font-family: 'Cinzel', serif;*/
     font-weight: 500;
     line-height: 1.1;
     color: inherit;
