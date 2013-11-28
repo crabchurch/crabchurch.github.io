@@ -6,5 +6,5 @@ active:
 
 #Welcome to The Crabchurch Conspiracy official website
 
-##OUT SOON
+##O U T  S O O N
 ###Date to be confirmed.
