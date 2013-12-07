@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Home
-active:        
 ---
 
 #Contact
@@ -9,4 +8,6 @@ active:
 The author, Mark Vine welcomes questions from researchers, and comments, suggestions and debate from readers.
 
 Email: <thevineline@sky.com>
+
+Crabchurch on [Facebook][https://www.facebook.com/crabchurch]
  
