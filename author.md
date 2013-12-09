@@ -33,7 +33,7 @@ He is a prolific author, researcher and well-known television historian with man
 
 ![Semirani Vine][semirani_vine_img]
 
-Semirani is an experienced artist and illustrator based in Dorset. 
+Semirani is an experienced artist and illustrator based in Dorset. For over twenty years she has accepted commissions from museums and businesses, later moving into the Fine Arts, exhibiting in solo and group exhibitions. In more recent years, she has focussed again on graphic and illustrative work using multimedia and technology.
  
 She is currently studying Modern Liberal Arts at the University of Winchester.
 
