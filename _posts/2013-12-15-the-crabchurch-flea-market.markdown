@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Crabchurch Flea Market"
-date:   2014-12-14 10:00:00
+date:   2013-12-14 10:00:00
 categories: event market 
 ---
 
@@ -9,7 +9,7 @@ categories: event market
 
 The Old Town Hall, Weymouth 
 
-Sunday 14th and 15th December 2014, 10am - 4pm
+Sunday 14th and 15th December 2013, 10am - 4pm
 
 For more information please visit [this page][event_on_fb]
 
