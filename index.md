@@ -5,8 +5,8 @@ title: Home
 
 #Welcome to The Crabchurch Conspiracy official website
 
-##O U T  S O O N
-###Date to be confirmed.
+##DUE FOR PUBLICATION MID-DECEMBER 2014
+
 
 ##Read on, for it is here, and it is written in blood...
 
