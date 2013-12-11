@@ -5,5 +5,4 @@ title: The Book
 
 #Buy the book
 
-##OUT SOON
-###Date to be confirmed.
+###Watch this space for details of how to purchase your copy of The Crabchurch Conspiracy
