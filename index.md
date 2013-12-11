@@ -8,7 +8,7 @@ title: Home
 ##DUE FOR PUBLICATION MID-DECEMBER 2014
 
 
-##Read on, for it is here, and it is written in blood...
+##"Read on, for it is here, and it is written in blood..."
 
 In the seventeenth century, the Sydenham brothers of Wynford Eagle in Dorset achieved fame and notoriety through their heroic exploits during the English Civil Wars of the 1640s and early 1650s and thereafter in the fields of politics and most notably, medicine.
  
