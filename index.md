@@ -5,8 +5,11 @@ title: Home
 
 #Welcome to The Crabchurch Conspiracy official website
 
-##DUE FOR PUBLICATION MID-DECEMBER 2014
+##OUT NOW
 
+The first copies will be available at the Crabchurch Conspiracy Flea Market
+14th and 15th December 2013
+Weymouth Old Town Hall
 
 ##"Read on, for it is here, and it is written in blood..."
 
