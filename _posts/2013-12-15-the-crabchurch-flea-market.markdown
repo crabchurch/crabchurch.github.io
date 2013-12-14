@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Crabchurch Flea Market"
+title:  "The Crabchurch Flea Market: Sat 14th and Sun 15th December 2013"
 date:   2013-12-14 10:00:00
 categories: event market 
 ---
@@ -10,6 +10,10 @@ categories: event market
 The Old Town Hall, Weymouth 
 
 Sunday 14th and 15th December 2013, 10am - 4pm
+
+Mark Vine will be selling the very first copies of The Crabchurch Conspiracy, signing and will be available for answering questions and general chit chat!
+
+Also lots of fantastic antiquities, quirky gift stalls and good company. Tea and coffee available too!
 
 For more information please visit [this page][event_on_fb]
 
