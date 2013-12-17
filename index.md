@@ -7,9 +7,7 @@ title: Home
 
 ##OUT NOW
 
-The first copies will be available at the [Crabchurch Conspiracy Flea Market](http://crabchurch.co.uk/event/market/2013/12/14/the-crabchurch-flea-market.html)        
-14th and 15th December 2013      
-Weymouth Old Town Hall       
+[Click here to buy your copy](http://crabchurch.co.uk/buy.html) (Paypal required)       
 
 ##"Read on, for it is here, and it is written in blood..."
 
