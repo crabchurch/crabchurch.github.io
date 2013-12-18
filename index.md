@@ -5,9 +5,10 @@ title: Home
 
 #Welcome to The Crabchurch Conspiracy official website
 
-##OUT NOW
+##[Click here to buy your copy](http://crabchurch.co.uk/buy.html) (Paypal required) 
 
-[Click here to buy your copy](http://crabchurch.co.uk/buy.html) (Paypal required)       
+
+
 
 ##"Read on, for it is here, and it is written in blood..."
 
