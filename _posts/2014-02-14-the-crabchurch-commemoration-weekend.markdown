@@ -8,29 +8,24 @@ categories: event commemoration
 
 
 ![The Crabchurch Conspiracy Commemoration Weekend][poster]
-##An Evening of Extraordinary True Tales and Beautiful Music
 
 
-I can now reveal that next February's Crabchurch Conspiracy Commemoration Weekend, 14th - 16th February will due to the demand for tickets, be held in the main auditorium of Weymouth Pavilion.
+The Crabchurch Conspiracy weekend will run from Friday 14th to Sunday 16th February 2014 and will see a number of commemoration events, concerts, lectures and reinactments around Weymouth town.
  
 The concert on the 15th February will headline with The Dolmen performing their album 'The Crabchurch Conspiracy' in its entirety.
  
-The concert will once again feature the inimitable [Professor Ronald Hutton][prof_link], Writer, Historian, TV Presenter and all round good bloke, who will be presenting a brand new talk entitled "Why the King Lost the English Civil War", in his own unique style.
+The concert will once again feature the inimitable [Professor Ronald Hutton][prof_link], writer, historian, TV presenter and all round good bloke, who will be presenting a brand new talk entitled "Why the King Lost the English Civil War", in his own unique style.
  
-And we are delighted to announce that once again gracing the stage with him will be the superb writer of the famous Stonewylde Series, Kit Berry and our very own Cap'n Steve Howl. All three will be accompanying The Dolmen as they perform the band's Crabchurch Conspiracy album, live.
+And we are delighted to announce that once again gracing the stage with him will be the superb writer of the famous Stonewylde Series, Kit Berry and our very own Cap'n Steve Howl. 
  
 Add to that, the numerous re-enactors that will be in town all weekend in full 17th century kit portraying the events of the Crabchurch Conspiracy and you can see that we are all in for a very special weekend.
  
-We are also hoping that many of our dear friends from Saor Patrol's DunCarron Medieval Village. project will be present, bringing their own excellent living history skills to bear.
+We are also hoping that many of our dear friends from Saor Patrol's DunCarron Medieval Village. project will be present, bringing their own excellent living history skills to bear. There will be a free concert with The Dolmen on the Friday 14th where they will perform parts of their collaborative album, Crann Tara.
  
 Kit Berry and members of Colonel William Sydenham's Regiment of the Weymouth Garrison will also be visiting local Weymouth schools in the weeks leading up to the Crabchurch weekend to encourage them in to producing artwork for the commemoration.
  
-Hope to see you there.
+Watch this space for more events as they are confirmed.
 
-Tickets are £15 and available direct from the Weymouth Pavillion box office.
-
-Tel: (01305) 783225
-Email: <boxoffice@weymouthpavilion.com>
 
 [prof_link]: http://www.bristol.ac.uk/history/staff/hutton.html
 [poster]: /images/event_weekend_14.jpg "The Crabchurch Conspiracy Commemoration Weekend"
