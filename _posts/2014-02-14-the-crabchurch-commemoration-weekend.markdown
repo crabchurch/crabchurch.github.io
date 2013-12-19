@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "14-15 Feb. The Crabchurch Conspiracy Commemoration Weekend"
+title:  "The Crabchurch Conspiracy Commemoration Weekend"
 date:   2014-02-14 00:00:00
 categories: event commemoration 
 ---
@@ -8,10 +8,11 @@ categories: event commemoration
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.uk/maps?ie=UTF8&amp;q=weymouth+pavilion&amp;fb=1&amp;gl=uk&amp;hq=weymouth+pavilion+theatre&amp;cid=27009918125259020&amp;t=m&amp;iwloc=&amp;ll=50.608795,-2.448833&amp;spn=0.006295,0.006295&amp;output=embed"></iframe><br /><small><a href="https://maps.google.co.uk/maps?ie=UTF8&amp;q=weymouth+pavilion&amp;fb=1&amp;gl=uk&amp;hq=weymouth+pavilion+theatre&amp;cid=27009918125259020&amp;t=m&amp;iwloc=&amp;ll=50.608795,-2.448833&amp;spn=0.006295,0.006295&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 
+##An Evening of Extraordinary True Tales and Beautiful Music
 
 I can now reveal that next February's Crabchurch Conspiracy Commemoration Weekend, 14th - 16th February will due to the demand for tickets, be held in the main auditorium of Weymouth Pavilion.
  
-Tickets will be £15.00 and can be purchased direct from the Pavilion. A link to tickets will be posted in the next few days as soon as the final details are ironed out.
+The concert on the 15th February will headline with The Dolmen performing their album 'The Crabchurch Conspiracy' in its entirety.
  
 The concert will once again feature the inimitable [Professor Ronald Hutton][prof_link], Writer, Historian, TV Presenter and all round good bloke, who will be presenting a brand new talk entitled "Why the King Lost the English Civil War", in his own unique style.
  
@@ -29,7 +30,9 @@ Kit Berry and members of Colonel William Sydenham's Regiment of the Weymouth Gar
  
 Hope to see you there.
 
-![14-15 Feb. The Crabchurch Conspiracy Commemoration Weekend][poster]
+Tickets are £15 and available direct from the Weymouth Pavillion box office.
 
-[poster]: /images/event_weekend_14.jpg "14-15 Feb. The Crabchurch Conspiracy Commemoration Weekend"
+Tel: (01305) 783225
+Email: theboxoffice@weymouth pavillion.com
+
 [prof_link]: http://www.bristol.ac.uk/history/staff/hutton.html
