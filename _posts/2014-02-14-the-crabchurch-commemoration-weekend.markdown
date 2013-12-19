@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Crabchurch Conspiracy Commemoration Weekend"
+title:  "14-15 Feb. The Crabchurch Conspiracy Commemoration Weekend"
 date:   2014-02-14 00:00:00
 categories: event commemoration 
 ---
@@ -29,4 +29,7 @@ Kit Berry and members of Colonel William Sydenham's Regiment of the Weymouth Gar
  
 Hope to see you there.
 
+![14-15 Feb. The Crabchurch Conspiracy Commemoration Weekend][poster]
+
+[poster]: /images/event_weekend_14.jpg "14-15 Feb. The Crabchurch Conspiracy Commemoration Weekend"
 [prof_link]: http://www.bristol.ac.uk/history/staff/hutton.html
