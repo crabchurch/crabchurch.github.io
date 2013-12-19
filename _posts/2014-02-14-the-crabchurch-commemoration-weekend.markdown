@@ -30,7 +30,7 @@ Hope to see you there.
 Tickets are £15 and available direct from the Weymouth Pavillion box office.
 
 Tel: (01305) 783225
-Email: <theboxoffice@weymouthpavilion.com>
+Email: <boxoffice@weymouthpavilion.com>
 
 [prof_link]: http://www.bristol.ac.uk/history/staff/hutton.html
 [poster]: /images/event_weekend_14.jpg "The Crabchurch Conspiracy Commemoration Weekend"
