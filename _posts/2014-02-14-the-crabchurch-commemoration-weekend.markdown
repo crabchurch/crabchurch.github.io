@@ -18,10 +18,6 @@ The concert will once again feature the inimitable [Professor Ronald Hutton][pro
  
 And we are delighted to announce that once again gracing the stage with him will be the superb writer of the famous Stonewylde Series, Kit Berry and our very own Cap'n Steve Howl. All three will be accompanying The Dolmen as they perform the band's Crabchurch Conspiracy album, live.
  
-You host for the evening will be Dolmen Grove Chairman, Diane Narraway.
- 
-The night before (Friday 14th) at an as yet unspecified venue, the mighty SAOR PATROL will join with The Dolmen on stage to perform the Crann T'ara album live.
- 
 Add to that, the numerous re-enactors that will be in town all weekend in full 17th century kit portraying the events of the Crabchurch Conspiracy and you can see that we are all in for a very special weekend.
  
 We are also hoping that many of our dear friends from Saor Patrol's DunCarron Medieval Village. project will be present, bringing their own excellent living history skills to bear.
