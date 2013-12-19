@@ -10,6 +10,8 @@ categories: event commemoration
 
 ##An Evening of Extraordinary True Tales and Beautiful Music
 
+![The Crabchurch Conspiracy Commemoration Weekend][poster]
+
 I can now reveal that next February's Crabchurch Conspiracy Commemoration Weekend, 14th - 16th February will due to the demand for tickets, be held in the main auditorium of Weymouth Pavilion.
  
 The concert on the 15th February will headline with The Dolmen performing their album 'The Crabchurch Conspiracy' in its entirety.
@@ -32,3 +34,4 @@ Tel: (01305) 783225
 Email: theboxoffice@weymouth pavillion.com
 
 [prof_link]: http://www.bristol.ac.uk/history/staff/hutton.html
+[poster]: /images/event_weekend_14.jpg "The Crabchurch Conspiracy Commemoration Weekend"
