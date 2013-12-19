@@ -4,15 +4,15 @@ title: The Book
 ---
 
 #Buy the book
-To purchase a copy of the Crabchurch Conspiracy Book please click on the button below:
+To purchase a copy of the Crabchurch Conspiracy book please click on the appropriate button below:
 
-## UK
+## Post to UK
 {% include buy_now_uk.html %}
 
-## Europe
+## Post to Europe
 {% include buy_now_europe.html %}
 
-## Worldwide
+## Post Worldwide
 {% include buy_now_worldwide.html %}
 
 If you do not use Paypal, [contact Mark Vine](http://crabchurch.co.uk/contact.html) to discuss other methods, e.g. cash, cheque or bank transfer) 
