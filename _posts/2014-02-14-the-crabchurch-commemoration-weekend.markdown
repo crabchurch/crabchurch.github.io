@@ -6,11 +6,10 @@ categories: event commemoration
 ---
 
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.uk/maps?ie=UTF8&amp;q=weymouth+pavilion&amp;fb=1&amp;gl=uk&amp;hq=weymouth+pavilion+theatre&amp;cid=27009918125259020&amp;t=m&amp;iwloc=&amp;ll=50.608795,-2.448833&amp;spn=0.006295,0.006295&amp;output=embed"></iframe><br /><small><a href="https://maps.google.co.uk/maps?ie=UTF8&amp;q=weymouth+pavilion&amp;fb=1&amp;gl=uk&amp;hq=weymouth+pavilion+theatre&amp;cid=27009918125259020&amp;t=m&amp;iwloc=&amp;ll=50.608795,-2.448833&amp;spn=0.006295,0.006295&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
-
-##An Evening of Extraordinary True Tales and Beautiful Music
 
 ![The Crabchurch Conspiracy Commemoration Weekend][poster]
+##An Evening of Extraordinary True Tales and Beautiful Music
+
 
 I can now reveal that next February's Crabchurch Conspiracy Commemoration Weekend, 14th - 16th February will due to the demand for tickets, be held in the main auditorium of Weymouth Pavilion.
  
@@ -35,3 +34,5 @@ Email: theboxoffice@weymouth pavillion.com
 
 [prof_link]: http://www.bristol.ac.uk/history/staff/hutton.html
 [poster]: /images/event_weekend_14.jpg "The Crabchurch Conspiracy Commemoration Weekend"
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.uk/maps?ie=UTF8&amp;q=weymouth+pavilion&amp;fb=1&amp;gl=uk&amp;hq=weymouth+pavilion+theatre&amp;cid=27009918125259020&amp;t=m&amp;iwloc=&amp;ll=50.608795,-2.448833&amp;spn=0.006295,0.006295&amp;output=embed"></iframe><br /><small><a href="https://maps.google.co.uk/maps?ie=UTF8&amp;q=weymouth+pavilion&amp;fb=1&amp;gl=uk&amp;hq=weymouth+pavilion+theatre&amp;cid=27009918125259020&amp;t=m&amp;iwloc=&amp;ll=50.608795,-2.448833&amp;spn=0.006295,0.006295&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
