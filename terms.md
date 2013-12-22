@@ -1,9 +1,9 @@
 ---
 layout: default
-title: The Book
+title: Terms and Conditions
 ---
 
-General Terms and Conditions
+#General Terms and Conditions
 
 Please read all of the information below prior to placing any order and please view our Privacy Policy also on this web site;
 
