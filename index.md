@@ -5,7 +5,8 @@ title: Home
 
 #Welcome to The Crabchurch Conspiracy official website
 
-##[Click here to buy your copy](http://crabchurch.co.uk/buy.html) (Paypal required)
+## OUT NOW
+###[Click here to buy your copy](http://crabchurch.co.uk/buy.html) 
  
 Mark Vine’s remarkable new book takes us to the little twin towns of Weymouth and Melcombe, during the height of the English Civil War,  where a conspiracy was to unfold that would engulf every single person that dwelt there and leave more than five hundred dead in its wake.
 
