@@ -18,9 +18,10 @@ To purchase a copy of the Crabchurch Conspiracy Book please click on the button 
 
 If you do not use Paypal, [contact Mark Vine](http://crabchurch.co.uk/contact.html) to discuss other methods, e.g. cash, cheque or bank transfer) 
 
-Also, a list of other retailers will shortly be available.
-
 [Click here to view the Terms and Conditions](http://crabchurch.co.uk/terms.html)
+
+
+NOW AVAILABLE IN [BOOKS AFLOAT, WEYMOUTH](http://www.192.com/atoz/business/weymouth-dt4/books-secondhand/books-afloat/d17c879f6e6bc8b1f72f013b46a02a88d366877b/ml/)
 
 
 [book_cover]: /images/crabchurch_book_cover.jpg "Crabchurch Conspiracy Book cover"
