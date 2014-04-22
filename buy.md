@@ -21,7 +21,7 @@ If you do not use Paypal, [contact Mark Vine](http://crabchurch.co.uk/contact.ht
 [Click here to view the Terms and Conditions](http://crabchurch.co.uk/terms.html)
 
 
-NOW AVAILABLE IN [BOOKS AFLOAT, WEYMOUTH](http://www.192.com/atoz/business/weymouth-dt4/books-secondhand/books-afloat/d17c879f6e6bc8b1f72f013b46a02a88d366877b/ml/)
+NOW AVAILABLE IN [BOOKS AFLOAT, WEYMOUTH](http://www.192.com/atoz/business/weymouth-dt4/books-secondhand/books-afloat/d17c879f6e6bc8b1f72f013b46a02a88d366877b/ml/) and shortly in W H Smith retailers.
 
 
 [book_cover]: /images/crabchurch_book_cover.jpg "Crabchurch Conspiracy Book cover"
