@@ -3,7 +3,9 @@ layout: default
 title: Home       
 ---
 
-#Welcome to The Crabchurch Conspiracy official website
+#The Crabchurch Conspiracy Commemoration Weekend
+Saturday 28th February and Sunday 1st March 2015
+
 
 ###[Click here to buy your copy](http://crabchurch.co.uk/buy.html)
 
