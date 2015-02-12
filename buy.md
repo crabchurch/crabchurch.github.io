@@ -5,7 +5,7 @@ title: The Book
 
 #Buy the book
 
-The book is beautifully illustrated by local artist Sem Vine and locally printed in paperback. 
+The book is beautifully illustrated by local artist Sem Vine and locally printed in paperback (128 pages). 
 
 To purchase a copy of the Crabchurch Conspiracy Book please click on the appropriate button below:
 
