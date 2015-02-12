@@ -12,9 +12,8 @@ Saturday 28th February and Sunday 1st March 2015
 
 You can purchase tickets for the evening show from the [Weymouth Pavillion box office](http://www.weymouthpavilion.com/index.html)
 
-##About the Book
 
-###[Click here to buy your copy](http://crabchurch.co.uk/buy.html)
+##About the Book
 
 The remarkable retelling of a long-forgotten Westcountry saga.
 
