@@ -18,7 +18,7 @@ You can purchase tickets for the evening show from the [Weymouth Pavillion box o
 
 The remarkable retelling of a long-forgotten Westcountry saga.
 
-The year is 1645, during the height of the English Civil War.
+The year is 1645, at the height of the English Civil War.
 
 In the little twin towns of Weymouth and Melcombe a conspiracy is unfolding which could change the course of English history.
 
