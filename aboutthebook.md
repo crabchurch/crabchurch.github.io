@@ -21,7 +21,7 @@ _Professor Ronald Hutton_
 
 <object width="600" height="400">
   <param name="movie"
-         value="https://www.youtube.com/v/xX_k7YbQ-wo?version=3"></param>
+         value="https://www.youtube.com/watch?v=vnOUZN5Wsn4"></param>
   <param name="allowScriptAccess" value="always"></param>
   <embed src="https://www.youtube.com/watch?v=vnOUZN5Wsn4"
          type="application/x-shockwave-flash"
