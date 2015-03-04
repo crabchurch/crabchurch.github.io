@@ -16,17 +16,3 @@ In the little twin towns of Weymouth and Melcombe a conspiracy is unfolding whic
 _“This is a work which brings properly to life the most dramatic and horrific sequence of experiences which this town has ever known, and which put it, at  moments, at the heart of England's destiny.”_
 
 _Professor Ronald Hutton_
-
-####Professor Ronald Hutton talks about the Crabchurch Conspiracy
-
-<object width="600" height="400">
-  <param name="movie"
-         value="https://www.youtube.com/watch?v=vnOUZN5Wsn4"></param>
-  <param name="allowScriptAccess" value="always"></param>
-  <embed src="https://www.youtube.com/watch?v=vnOUZN5Wsn4"
-         type="application/x-shockwave-flash"
-         allowscriptaccess="always"
-         width="600" height="400"></embed>
-</object>
-
-
