@@ -1,8 +1,0 @@
----
-layout: default
-title: Crabchurch 15
----
-
-##Videos
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7SpO6rNsbmA" frameborder="0" allowfullscreen></iframe>
