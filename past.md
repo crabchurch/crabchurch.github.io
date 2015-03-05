@@ -10,3 +10,6 @@ Saturday 28th February and Sunday 1st March
 <br>
 ###[The Crabchurch Conspiracy Weekend 2014](http://crabchurch.co.uk/cc14)
 Saturday 15th February and Sunday 16th February
+<br>
+###[The Crabchurch Conspiracy Weekend 2013](http://crabchurch.co.uk/cc13)
+Saturday 16th February and Sunday 17th February
