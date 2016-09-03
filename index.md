@@ -18,6 +18,3 @@ _“This is a work which brings properly to life the most dramatic and horrific 
 
 _Professor Ronald Hutton_
 
-<br>
-
-[![CLick here to go to the Crabchurch 16 website](images/cc16 button.jpg)](http://www.cc16.co.uk)
