@@ -4,7 +4,9 @@ title: Events
 ---
 
 ##Past Events
-
+<br>
+###[The Crabchurch Conspiracy Weekend 2016](http://crabchurch.co.uk/cc16)
+Saturday 27th and Sunday 28th February
 ###[The Crabchurch Conspiracy Weekend 2015](http://crabchurch.co.uk/cc15)
 Saturday 28th February and Sunday 1st March
 <br>
