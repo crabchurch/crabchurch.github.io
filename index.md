@@ -1,4 +1,4 @@
-8---
+---
 layout: default
 title: Home       
 ---
@@ -19,5 +19,5 @@ _“This is a work which brings properly to life the most dramatic and horrific 
 _Professor Ronald Hutton_
 <br>
 <br>
-###[Click here for information about Crabchurch 2018...](https://crabchurchconspiracy.wordpress.com/)
+###[Click here for information about Crabchurch 2017: The Dead Will Speak...](https://crabchurchconspiracy.wordpress.com/)
 
