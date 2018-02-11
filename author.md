@@ -3,7 +3,7 @@ layout: default
 title: The Book
 ---
 
-##Mark Vine: Author
+ ##Mark Vine: Author
 
 ![Mark Vine the author][mark_vine_img]
 
@@ -15,7 +15,7 @@ He is also a lyricist, working with a number of bands, but mostly with the inter
 
 * * *
 
-##Professor Ronald Hutton: The Foreword
+ ##Professor Ronald Hutton: The Foreword
 
 ![Professor Ronald Hutton][ronald_hutton_img]
 
@@ -25,13 +25,11 @@ He is a leading authority on the history of the British Isles during the sixteen
  
 He is a prolific author, researcher and well-known television historian with many programmes to his credit.
 
-##Semirani Vine: Illustrator 
+ ##Semirani Vine: Illustrator 
 
 ![Semirani Vine][semirani_vine_img]
 
 Semirani is an experienced artist and illustrator based in Dorset. For over twenty years she has accepted commissions from museums and businesses, later moving into the Fine Arts, exhibiting in solo and group exhibitions. In more recent years, she has focussed again on graphic and illustrative work using multimedia and technology.
- 
-She is currently studying Modern Liberal Arts at the University of Winchester.
 
 [dolmen]: http://thedolmen.com/ "The Dolmen" 
 [mark_vine_img]: /images/mark_vine.jpg "Mark Vine the author"
