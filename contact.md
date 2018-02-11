@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-#Contact
+# Contact
 
 The author, Mark Vine welcomes questions from researchers, and comments, suggestions and debate from readers.
 
