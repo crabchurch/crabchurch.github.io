@@ -6,9 +6,9 @@ title: Home
 <br>
 <br>
 <br>
-####"Read on,
-###For it is here,
-##And it is written in blood..."
+#### "Read on,
+### For it is here,
+## And it is written in blood..."
 
 <br>
 <br>
@@ -19,5 +19,5 @@ _“This is a work which brings properly to life the most dramatic and horrific 
 _Professor Ronald Hutton_
 <br>
 <br>
-###[Click here for information about Crabchurch 2018...](https://crabchurchconspiracy.wordpress.com/)
+### [Click here for information about Crabchurch 2018...](https://crabchurchconspiracy.wordpress.com/)
 
