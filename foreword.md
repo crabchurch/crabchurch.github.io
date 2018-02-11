@@ -3,8 +3,8 @@ layout: default
 title: The Book
 ---
 
-#Foreword
-##by Professor Ronald Hutton
+# Foreword
+## by Professor Ronald Hutton
 
 The civil wars of the 1640s were probably the worst experience that the people of the British Isles have ever undergone. Epidemics of disease killed far greater numbers of human beings in a shorter time than these conflicts ever did, but left people's sense of their world, their religious, political and social beliefs and their relations with each other, more or less intact.
  
