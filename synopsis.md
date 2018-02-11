@@ -3,7 +3,7 @@ layout: default
 title: The Book
 ---
 
-##Synopsis
+## Synopsis
 
 <br>
 In 1645, several royalist plotters within the twin towns of Weymouth and Melcombe on the Dorset coast conspired to deliver the ports back into the control of King Charles 1. It has been suggested that he needed a safe south coast port at which to land a huge French army which he hoped would deliver a decisive blow and end the resistance of the Parliamentarians whom he had been fighting for almost three years.
