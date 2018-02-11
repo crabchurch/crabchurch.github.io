@@ -3,19 +3,19 @@ layout: default
 title: The Book
 ---
 
- #Buy the book
+# Buy the book
 
 The book is beautifully illustrated by local artist Sem Vine and locally printed in paperback (128 pages). 
 
 To purchase a copy of the Crabchurch Conspiracy please click on the appropriate button below:
 
- ## Post to UK
+## Post to UK
 {% include buy_now_uk.html %}
 
- ## Post to Europe
+## Post to Europe
 {% include buy_now_europe.html %}
 
- ## Post Worldwide
+## Post Worldwide
 {% include buy_now_worldwide.html %}
 
 If you do not use Paypal, [contact Mark Vine](http://crabchurch.co.uk/contact.html) to discuss other methods, e.g. cash, cheque or bank transfer) 
