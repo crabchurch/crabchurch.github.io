@@ -3,7 +3,7 @@ layout: default
 title: The Book
 ---
 
- ##Mark Vine: Author
+## Mark Vine: Author
 
 ![Mark Vine the author][mark_vine_img]
 
@@ -15,7 +15,7 @@ He is also a lyricist, working with a number of bands, but mostly with the inter
 
 * * *
 
- ##Professor Ronald Hutton: The Foreword
+## Professor Ronald Hutton: The Foreword
 
 ![Professor Ronald Hutton][ronald_hutton_img]
 
@@ -25,7 +25,7 @@ He is a leading authority on the history of the British Isles during the sixteen
  
 He is a prolific author, researcher and well-known television historian with many programmes to his credit.
 
- ##Semirani Vine: Illustrator 
+## Semirani Vine: Illustrator 
 
 ![Semirani Vine][semirani_vine_img]
 
