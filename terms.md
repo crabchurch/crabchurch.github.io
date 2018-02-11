@@ -3,7 +3,7 @@ layout: default
 title: Terms and Conditions
 ---
 
-#Terms and Conditions of Purchase
+# Terms and Conditions of Purchase
 
 Please read all of the information below prior to placing any order and please view our Privacy Policy also on this web site;
 
