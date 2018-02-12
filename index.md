@@ -12,7 +12,6 @@ title: Home
 
 <br>
 <br>
-<br>
 
 _“This is a work which brings properly to life the most dramatic and horrific sequence of experiences which this town has ever known, and which put it, at  moments, at the heart of England's destiny.”_
 
