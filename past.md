@@ -3,8 +3,10 @@ layout: default
 title: Events
 ---
 
-##Past Events
+## Past Events
 <br>
+### [The Crabchurch Conspiracy Weekend 2017](https://crabchurchconspiracy.wordpress.com/events/)
+Friday 10th to Sunday 12th March 2017
 ### [The Crabchurch Conspiracy Weekend 2016](http://crabchurch.co.uk/cc16)
 Saturday 27th and Sunday 28th February
 ### [The Crabchurch Conspiracy Weekend 2015](http://crabchurch.co.uk/cc15)
